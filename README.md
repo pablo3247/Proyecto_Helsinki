@@ -1,7 +1,7 @@
 # Proyecto_Helsinki
-Trabajo de DAM.
+##Trabajo de DAM.
 
-Actividades:
+###Actividades:
 
 AdivinarLetra   
 
