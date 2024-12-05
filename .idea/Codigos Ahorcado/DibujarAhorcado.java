@@ -1,6 +1,6 @@
 public class DibujarAhorcado {
     public static void dibujar(int intentos) {
-        switch (XXX) {
+        switch (palabra) {
             case 6:
                 System.out.println("""
                     _______
@@ -14,7 +14,13 @@ public class DibujarAhorcado {
                 break;
             case 5:
                 System.out.println("""
-                   XXX
+                    _______
+                   |      |
+                   |      O
+                   |      
+                   |
+                   |
+                   |______
                 """);
                 break;
             case 4:
@@ -30,7 +36,13 @@ public class DibujarAhorcado {
                 break;
             case 3:
                 System.out.println("""
-                   XXX
+                    _______
+                   |      |
+                   |      O
+                   |     /|
+                   |
+                   |
+                   |______
                 """);
                 break;
             case 2:
@@ -57,7 +69,13 @@ public class DibujarAhorcado {
                 break;
             case 0:
                 System.out.println("""
-                    XXX
+                    _______
+                   |      |
+                   |      O
+                   |     /|\\
+                   |     / \\
+                   |
+                   |______
                    """);
                 break;
             default:
