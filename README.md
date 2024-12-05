@@ -1,14 +1,49 @@
 # Proyecto_Helsinki
-## Trabajo de DAM.
+<details>
+<summary>:star:</summary>
+  
+*(Nombre en clave para el proyecto _ Hangman)*
+    
+</details>
+
+## Trabajo de Entornos de desarrollo.
 
 ### Reparto de actividades:
+:red_car:
 
-AdivinarLetra   
+- **VerificarLetra** -- *Adrian*
+  
+:arrow_double_down:
+  
+- **JuegoCompletado** -- *Washington*
+  
+:arrow_double_down:
 
-DibujarAhorcado  
+- **AdivinarLetra** -- *Pau*
+  
+:arrow_double_down:
 
-MostrarEstado  
+- **MostrarEstado** -- *Pau*
+  
+:arrow_double_down:
 
-SeleccionarPalabra  
+- **DibujarAhorcado** -- *Damaris*
+  
+:arrow_double_down:
 
-VerificarLetra  
+- **SeleccionarPalabra** -- *Raquel*
+  
+:checkered_flag:
+
+
+
+
+
+
+
+<details>
+<summary>:exclamation:</summary>
+  
+*espabila!* :stuck_out_tongue_winking_eye:
+    
+</details>
